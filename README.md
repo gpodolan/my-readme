@@ -26,4 +26,3 @@ This one is the foundation of everything for me. My particular style is based on
   4. Email (by the next day) 
 * "To:" = FYA, "Cc:" = FYI
 * Silence = approval/acceptance.
-* I default to transparency. Unless there is a good reason not to share something, I will do so.
