@@ -1,13 +1,16 @@
 # READ.ME - Gabriel Podolan
-This is a short READ.ME file describing my habits and quirks when it comes to ways of working. It is not supposed to be a manual on how to work with me, but what I will default to if there is no other agreement on something different.
-It is also a way to reflect on my working style and figure out areas of improvement, so feel free to create issues with any feedback you may have.
+This is a short READ.ME file about my habits, quirks and ways of working. It should help understand my default settings and reactions.
 
-## Communication
-I start with this as I see this as the fundament to any relationship. If communication is bad, the relationship goes sour, regardless if it is a personal or a work one.
-My particular style is based on a few basic concepts:
+## Me in a nutshell
+I'm a family guy, husband, father of 4 (5 if you count the dog), heavy metal fan, grill pilot, singer and guitarist. I'm also a cybersecurity, privacy and data science enthusiast, so I'm fortunate to do what I **love**.
 
-* Use appropriate means depending on priority. If it is burning, give me a call. ElseIf you need a fast answer, but not immediate, use chat. Else, send an email. Although I tend to monitor my mailbox constantly, there are situations that may prevent me from doing so.
-* If you don't respond to a request, I will understand it as a silent approval/acceptance. If you need time to review what I sent out, tell me. If you disagree, make it crystal clear. Not saying something equals to acceptance.
-* When I send an e-mail to a group of people I take for granted that all of them will read it, after all, that is the whole point of e-mail. If I didn't have the expectation that the recepients read it, I would just print it and tape it to the refrigerator door. ;)
-* I ALWAYS address my e-mails as follows: if you are in the "To:" field, I need something from you; if you are there in an FYI basis, I'll put you in "Cc:".
-* Everything I say means what I am saying. There is no implied message or hidden message. I believe in fully transparent verbal communication in both ways, so if you need to tell me something, be as clear and objective as possible and don't expect me to read between the lines. I'm terrible at it and I will need several hints.
+My IT career started in 2000 when I built my first website. From there I had a few different experiences that you can check out in my [LinkedIn profile](https://www.linkedin.com/in/gpodolan).
+
+These are a few principles which I live by and do my best to live up to:
+* Communication is key.
+* Without feedback, nothing improves.
+* Mistakes are a powerful teacher.
+* Disagreement nurtures ideas. Commitment empowers them.
+* Nothing is impossible.
+
+In my spare time, I make music with one of my former band mates from Brazil, which you can find in my [Youtube channel](https://www.youtube.com/channel/UCvHx_nxEo79Fn2sGLPsEBlA)
