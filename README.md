@@ -6,7 +6,7 @@ I'm a family guy, husband, father of 4 (5 if you count the dog), heavy metal fan
 
 My IT career started in 2000 when I built my first website. From there I had a few different experiences that you can check out in my [LinkedIn profile](https://www.linkedin.com/in/gpodolan).
 
-These are a few principles which I live by and do my best to live up to:
+These are a few principles I live by and do my best to live up to:
 * Communication is key.
 * Without feedback, nothing improves.
 * Mistakes are a powerful teacher.
